@@ -153,12 +153,20 @@ void render() {
 	}
 	// fifth press
 	else if (press == 5) {
+		layer1changeColor[0] = 0.1568;
+		layer1changeColor[1] = 0.4823;
+		layer1changeColor[2] = 0.717;
+
 		layer2changeColor[0] = 0.317647;
 		layer2changeColor[1] = 0.9568627;
 		layer2changeColor[2] = 0.2196078;
 	}
 	// sixth press
 	else if (press == 6) {
+		layer2changeColor[0] = 0.749;
+		layer2changeColor[1] = 0.243137;
+		layer2changeColor[2] = 0.243137;
+
 		layer3changeColor[0] = 0.317647;
 		layer3changeColor[1] = 0.9568627;
 		layer3changeColor[2] = 0.2196078;
