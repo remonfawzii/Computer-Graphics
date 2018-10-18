@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\remon\source\repos\neural-network-example\neural-network-example\main.cpp(184): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  neural-network-example.vcxproj -> C:\Users\remon\source\repos\neural-network-example\Debug\neural-network-example.exe

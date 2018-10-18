@@ -1,3 +1,0 @@
-﻿  main.cpp
-f:\college\computer graphics\projects\computer-graphics\back-propagation\back-propagation\main.cpp(183): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  back-propagation.vcxproj -> F:\college\computer graphics\projects\Computer-Graphics\back-propagation\Debug\back-propagation.exe
