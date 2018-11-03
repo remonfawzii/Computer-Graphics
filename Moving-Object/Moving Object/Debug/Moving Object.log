@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\remon\source\repos\moving object\moving object\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(38): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(40): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(48): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(50): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\remon\source\repos\moving object\moving object\main.cpp(62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\remon\source\repos\moving object\moving object\main.cpp(72): warning C4551: function call missing argument list
+  Moving Object.vcxproj -> C:\Users\remon\source\repos\Moving Object\Debug\Moving Object.exe
